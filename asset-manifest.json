@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pepole-finder-by-hadar-harush/static/css/main.f210278e.chunk.css",
+    "main.js": "/pepole-finder-by-hadar-harush/static/js/main.790f86d2.chunk.js",
+    "main.js.map": "/pepole-finder-by-hadar-harush/static/js/main.790f86d2.chunk.js.map",
+    "runtime-main.js": "/pepole-finder-by-hadar-harush/static/js/runtime-main.88fcfe26.js",
+    "runtime-main.js.map": "/pepole-finder-by-hadar-harush/static/js/runtime-main.88fcfe26.js.map",
+    "static/css/2.97503911.chunk.css": "/pepole-finder-by-hadar-harush/static/css/2.97503911.chunk.css",
+    "static/js/2.0797135a.chunk.js": "/pepole-finder-by-hadar-harush/static/js/2.0797135a.chunk.js",
+    "static/js/2.0797135a.chunk.js.map": "/pepole-finder-by-hadar-harush/static/js/2.0797135a.chunk.js.map",
+    "index.html": "/pepole-finder-by-hadar-harush/index.html",
+    "static/css/2.97503911.chunk.css.map": "/pepole-finder-by-hadar-harush/static/css/2.97503911.chunk.css.map",
+    "static/css/main.f210278e.chunk.css.map": "/pepole-finder-by-hadar-harush/static/css/main.f210278e.chunk.css.map",
+    "static/js/2.0797135a.chunk.js.LICENSE.txt": "/pepole-finder-by-hadar-harush/static/js/2.0797135a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88fcfe26.js",
+    "static/css/2.97503911.chunk.css",
+    "static/js/2.0797135a.chunk.js",
+    "static/css/main.f210278e.chunk.css",
+    "static/js/main.790f86d2.chunk.js"
+  ]
+}
